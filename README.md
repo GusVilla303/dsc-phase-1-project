@@ -29,7 +29,7 @@ The primary data sources for this project are:
 
 ### Project Findings and Presentation
 
-See the full analysis in the [Jupyter Notebook](./microsoft-movie-analysis.ipynb) or review this [presentation](./Microsoft Movie Analysis Presentation - Final.pdf).
+See the full analysis in the [Jupyter Notebook](./microsoft-movie-analysis.ipynb) or review this [presentation](./Microsoft-Movie Analysis-Presentation-Final.pdf).
 
 ## Repository Structure
 
