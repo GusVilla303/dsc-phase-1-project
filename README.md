@@ -37,6 +37,6 @@ See the full analysis in the [Jupyter Notebook](./microsoft-movie-analysis.ipynb
 ├── data
 ├── images
 ├── README.md
-├── Microsoft Movie Analysis Presentation - Final.pdf
+├── Microsoft-Movie-Analysis-Presentation-Final.pdf
 └── microsoft-movie-analysis.ipynb
 ```
