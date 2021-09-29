@@ -29,7 +29,7 @@ The primary data sources for this project are:
 
 ### Project Findings and Presentation
 
-<img src="images/genres.png" width="80%">
+<img src="images/genres_total_gross_plot.png" width="80%">
 
 
 See the full analysis in the [Jupyter Notebook](./microsoft-movie-analysis.ipynb) or review this [presentation](./Microsoft-Movie-Analysis-Presentation-Final.pdf).
