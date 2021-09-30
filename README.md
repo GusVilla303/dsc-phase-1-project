@@ -29,8 +29,23 @@ The primary data sources for this project are:
 
 ### Project Findings and Presentation
 
+#### Finding # 1 -- Which Genres Are Most Profitable?
+
 <img src="images/genres_total_gross_plot.png" width="80%">
 
+Recommendation: Based on our results, Microsoft should create Sci-Fi films in order maximize probablity of sucess and profitability. It is also possible to create films with multiple genres (such as Sci-Fi, Adventure, and Action) and still be very profitable.
+
+#### Finding # 2 -- Do Runtime Minutes Influence Gross Earnings?
+
+<img src="images/runtimes_total_gross_plot.png" width="80%">
+
+Recommendation: Set the runtime between 100 minutes to 150 minutes in order to maximize the probability of success and profitability. Films with runtimes less than 80 rminutes or more than 165 minutes were not very profitable. 
+
+#### Finding # 3 -- Does Production Budget Affect Gross Earnings?
+
+<img src="images/budgets_total_gross_plot.png" width="80%">
+
+Recommendation: Our results indicate that there is a POSITIVE relationship between production budgets and total gross earnings. In short, higher production budgets render higher total gross earnings. 
 
 See the full analysis in the [Jupyter Notebook](./microsoft-movie-analysis.ipynb) or review this [presentation](./Microsoft-Movie-Analysis-Presentation-Final.pdf).
 
