@@ -31,7 +31,7 @@ The primary data sources for this project are:
 
 #### Finding # 1 -- Which Genres Are Most Profitable?
 
-<img src="images/genres_total_gross_plot.png" width="80%">
+<img src="images/genres_gross_updated_plot.png" width="80%">
 
 Recommendation: Based on our results, Microsoft should create Sci-Fi films in order maximize probablity of sucess and profitability. It is also possible to create films with multiple genres (such as Sci-Fi, Adventure, and Action) and still be very profitable.
 
